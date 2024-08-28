@@ -1,6 +1,14 @@
-# Lab Activity 01
+Cel Rick D Almario From CS3B LSPU-SCC 
 # CSST-102
-Cel Rick D. Almario From BSCS 3B Outputs
+# Lab Activity 1: Overview of Machine Learning Applications
+Objective: Familiarize students with various applications of machine learning in real-world scenarios.
+
+Instructions:
+•    Research and identify at least three different applications of machine learning across various domains (e.g., healthcare, finance, marketing).
+•    Create a presentation summarizing each application, including:
+o    The problem being solved
+o    The type of machine learning used (supervised, unsupervised, reinforcement)
+o    The impact of the solution
 
 ![Slide1](https://github.com/user-attachments/assets/a1fa5732-8f94-4a70-bc06-62575d082d83)
 ![Slide2](https://github.com/user-attachments/assets/6bbed103-b6cc-4379-b634-404946a1afea)
