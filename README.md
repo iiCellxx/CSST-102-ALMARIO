@@ -48,7 +48,7 @@ Missing attribute values: none
 
 Class distribution: 357 benign, 212 malignant
 
-# Project Example: https://www.kaggle.com/code/kanncaa1/feature-selection-and-data-visualization![image](https://github.com/user-attachments/assets/5ca2d074-05aa-4280-9576-fa70c118a035)
+# Project Example: https://www.kaggle.com/code/kanncaa1/feature-selection-and-data-visualization
 
 
 
