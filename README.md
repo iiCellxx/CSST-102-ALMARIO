@@ -4,7 +4,18 @@ Cel Rick D Almario From CS3B LSPU-SCC
 
 https://drive.google.com/file/d/1uJNv1_jP-2i8BU3pqqEudYw8uEx34klu/view?usp=sharing
 
+![image](https://github.com/user-attachments/assets/9d58bc54-5467-448d-afca-df73f80dbf00)
+
+![image](https://github.com/user-attachments/assets/4855825e-c60f-4ab2-880e-bcdc1f43d41a)
+
+![image](https://github.com/user-attachments/assets/bf65c695-2139-4cea-bb97-e64b3950a8d3)
+
+![image](https://github.com/user-attachments/assets/d9dfcb5a-7474-4357-8fc8-bff44b55efe8)
+
+![image](https://github.com/user-attachments/assets/b57d3e39-4395-47f5-b8f9-905ff1193ea8)
+
 ![Slide1](https://github.com/user-attachments/assets/a1fa5732-8f94-4a70-bc06-62575d082d83)
+
 ![Slide2](https://github.com/user-attachments/assets/6bbed103-b6cc-4379-b634-404946a1afea)
 
 # Example Of Healthcare: Predictive Diagnostics 
